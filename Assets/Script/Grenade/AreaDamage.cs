@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class AreaDamage : MonoBehaviour
 {
-    [SerializeField] float setTime = 3;
-    
     
     // Start is called before the first frame update
     void Start()
@@ -29,7 +27,6 @@ public class AreaDamage : MonoBehaviour
         }
         
         Destroy(this.gameObject);
-        
         
     }
     

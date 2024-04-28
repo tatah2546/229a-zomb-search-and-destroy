@@ -15,6 +15,7 @@ public class Enemy : MonoBehaviour
     
 
     public Player player;
+    public GameManager _gameManager;
     public float playerGunDamage;
     public float playerGrenadeDamage;
     
@@ -71,11 +72,7 @@ public class Enemy : MonoBehaviour
 
         if (Hp <= 0)
         {
-            if (player.Hp < 100 && player.Hp > 0)
-            {
-                player.Hp += 20;
-            }
-
+            player.ScoreOnEnemyDead();
             Destroy(this.gameObject);
         }
         

@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class Player : MonoBehaviour
 {
@@ -18,6 +19,9 @@ public class Player : MonoBehaviour
     
     public bool isFacingRight = true;
     public Vector2 aimDirection;
+    
+    public float score;
+    public int zombieKillCount;
     
     
     // Start is called before the first frame update
@@ -59,9 +63,13 @@ public class Player : MonoBehaviour
             Debug.Log("asdadsdad");
             
         }
-
         
-        
+    }
+    
+    public void ScoreOnEnemyDead()
+    {
+        score += 500;
+        zombieKillCount += 1;
     }
     
     
