@@ -28,7 +28,7 @@ public class GameManager : MonoBehaviour
 
         if (player.Hp <= 0)
         {
-            Destroy(player.gameObject); //player dead = lose;
+            //////////// right here!!!!!!!!!!!! player lose
         }
         
         if (player.zombieKillCount >= 15)
