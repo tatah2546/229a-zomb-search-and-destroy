@@ -29,6 +29,7 @@ public class GameManager : MonoBehaviour
         if (player.Hp <= 0)
         {
             //////////// right here!!!!!!!!!!!! player lose
+            lose();
         }
         
         if (player.zombieKillCount >= 15)
@@ -43,9 +44,9 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadSceneAsync(2);
     }
 
-    void menu()
+    void lose()
     {
-        SceneManager.LoadSceneAsync(0);
+        SceneManager.LoadSceneAsync(4);
     }
 
     
