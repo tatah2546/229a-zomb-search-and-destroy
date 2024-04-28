@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: c24d316ee9576a14db2c77451040a43d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a6ac2cd1c05f4487f23a43f195f50
+      internalID: 2115281618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1a5b29722c8984aa74df76a0d68dd6
+      internalID: -1328353070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeaa2ca529b1a34881ad955ded46c14
+      internalID: -1493845756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7d111112a156479e208af1757495a
+      internalID: 670313452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf13d7b0567bb914483451558405c07d
+      internalID: -1275214506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057e0bff83f50c43b7b4ca77040a756
+      internalID: 455550200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552b64d689428ad4da6a8ede3e504240
+      internalID: -1959358885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dea97be7bce864ebdcdc91feb98fc4
+      internalID: -1507315395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd90bb6260a2b43bf49be2869348ec
+      internalID: -1963245045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 41
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b046e954aa2a3040a59070e879889fa
+      internalID: 930940908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4270931385123943a6a79a3db4cb4bc
+      internalID: 1665711994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 41
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d689c195e0ca438d40aa10b6eddd7
+      internalID: -1613508631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5a0a3868bfb04a9945e1d2a6176a3
+      internalID: -1974487658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c591387fae778c4183a2589d91e6d22
+      internalID: -1051437828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbb3267028c7745a63aa6ef40459a2
+      internalID: -1258967315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77671e61196393647980aacecf082710
+      internalID: 1417204093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e63958d41ae54393de7ee05756be3
+      internalID: 1010380939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb64d4053107c4b8123d72f2f7d3e9
+      internalID: -1934597596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fa95b4e9f06294380d3ff02f96574e
+      internalID: -1220700964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_41
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e81ef5670b594f809bd35d1f370fe
+      internalID: -1725262749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d60c92e18fda341b7bd6b40c226532
+      internalID: 661012628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623b86416a8d7c4798ce996bf2d68ee
+      internalID: -922521559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864fe22a9218a24e930e272c669d930
+      internalID: 1179444315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10deb36ef27ec6d4ca9d6e26f9a2dd2d
+      internalID: -2058581247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770a7730e845ed488f31adcfb3f3873
+      internalID: 1808510212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a13a512ddeb02418fdca331a9f2f60
+      internalID: 269253918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073266f10349d9e4dba86ba384f3dc9f
+      internalID: -332552751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb7ebfd36b9e9469ba106361d0bca0
+      internalID: -1677937726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbffe7f191ed64683aa458cd8e82d1
+      internalID: -1892690942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f290816119b24db839af11a5ef490
+      internalID: -1450603267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_56
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292d4a202ee65340b758ccb0c57a336
+      internalID: 2005303521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90561b3bbc034a84aa5fd4eab7d989f5
+      internalID: 1095978343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_58
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0f82fa565ae6a4e8285abcf828abfe
+      internalID: 1685944759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c25186cd30c0d499c4ffa5cccb4ae4
+      internalID: 872754120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0123680288ae4aa3291a9474f8ab6
+      internalID: 1025643670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Apocalypse Tileset Reference 3_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e3a10539fdb6546918e889198759ba
+      internalID: 833629562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie Apocalypse Tileset Reference 3_0: 1645316021
+      Zombie Apocalypse Tileset Reference 3_1: 2027079465
+      Zombie Apocalypse Tileset Reference 3_10: 1791376869
+      Zombie Apocalypse Tileset Reference 3_11: -346625993
+      Zombie Apocalypse Tileset Reference 3_12: 220979412
+      Zombie Apocalypse Tileset Reference 3_13: 1525561363
+      Zombie Apocalypse Tileset Reference 3_14: -1978900502
+      Zombie Apocalypse Tileset Reference 3_15: -600285683
+      Zombie Apocalypse Tileset Reference 3_16: 1110791522
+      Zombie Apocalypse Tileset Reference 3_17: 1089858873
+      Zombie Apocalypse Tileset Reference 3_18: -1493845756
+      Zombie Apocalypse Tileset Reference 3_19: 670313452
+      Zombie Apocalypse Tileset Reference 3_2: 988340776
+      Zombie Apocalypse Tileset Reference 3_20: -1275214506
+      Zombie Apocalypse Tileset Reference 3_21: 455550200
+      Zombie Apocalypse Tileset Reference 3_22: -1959358885
+      Zombie Apocalypse Tileset Reference 3_23: -1507315395
+      Zombie Apocalypse Tileset Reference 3_24: -1963245045
+      Zombie Apocalypse Tileset Reference 3_25: 966154489
+      Zombie Apocalypse Tileset Reference 3_26: -687464565
+      Zombie Apocalypse Tileset Reference 3_27: -427312717
+      Zombie Apocalypse Tileset Reference 3_28: 930940908
+      Zombie Apocalypse Tileset Reference 3_29: 1665711994
+      Zombie Apocalypse Tileset Reference 3_3: 1673888282
+      Zombie Apocalypse Tileset Reference 3_30: -1613508631
+      Zombie Apocalypse Tileset Reference 3_31: -1974487658
+      Zombie Apocalypse Tileset Reference 3_32: -2016450721
+      Zombie Apocalypse Tileset Reference 3_33: -1900067860
+      Zombie Apocalypse Tileset Reference 3_34: 402397396
+      Zombie Apocalypse Tileset Reference 3_35: -1051437828
+      Zombie Apocalypse Tileset Reference 3_36: -1258967315
+      Zombie Apocalypse Tileset Reference 3_37: 1417204093
+      Zombie Apocalypse Tileset Reference 3_38: 1010380939
+      Zombie Apocalypse Tileset Reference 3_39: -1934597596
+      Zombie Apocalypse Tileset Reference 3_4: 2115281618
+      Zombie Apocalypse Tileset Reference 3_40: -1220700964
+      Zombie Apocalypse Tileset Reference 3_41: -1725262749
+      Zombie Apocalypse Tileset Reference 3_42: -2083717823
+      Zombie Apocalypse Tileset Reference 3_43: -1396082581
+      Zombie Apocalypse Tileset Reference 3_44: -1247396834
+      Zombie Apocalypse Tileset Reference 3_45: 661012628
+      Zombie Apocalypse Tileset Reference 3_46: -922521559
+      Zombie Apocalypse Tileset Reference 3_47: 1179444315
+      Zombie Apocalypse Tileset Reference 3_48: 1829291359
+      Zombie Apocalypse Tileset Reference 3_49: -2058581247
+      Zombie Apocalypse Tileset Reference 3_5: -1328353070
+      Zombie Apocalypse Tileset Reference 3_50: 1808510212
+      Zombie Apocalypse Tileset Reference 3_51: 269253918
+      Zombie Apocalypse Tileset Reference 3_52: -332552751
+      Zombie Apocalypse Tileset Reference 3_53: -1677937726
+      Zombie Apocalypse Tileset Reference 3_54: -1892690942
+      Zombie Apocalypse Tileset Reference 3_55: -1450603267
+      Zombie Apocalypse Tileset Reference 3_56: 2005303521
+      Zombie Apocalypse Tileset Reference 3_57: 1095978343
+      Zombie Apocalypse Tileset Reference 3_58: 1685944759
+      Zombie Apocalypse Tileset Reference 3_59: 1679838130
+      Zombie Apocalypse Tileset Reference 3_6: 1581839210
+      Zombie Apocalypse Tileset Reference 3_60: 1237743373
+      Zombie Apocalypse Tileset Reference 3_61: -1984297512
+      Zombie Apocalypse Tileset Reference 3_62: 872754120
+      Zombie Apocalypse Tileset Reference 3_63: 1025643670
+      Zombie Apocalypse Tileset Reference 3_64: 833629562
+      Zombie Apocalypse Tileset Reference 3_65: -900774978
+      Zombie Apocalypse Tileset Reference 3_7: 624829600
+      Zombie Apocalypse Tileset Reference 3_8: -1970826500
+      Zombie Apocalypse Tileset Reference 3_9: 649396872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
